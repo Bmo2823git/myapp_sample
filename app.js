@@ -1,2 +1,2 @@
 
-condole.log('Hello World - git and github');
+condole.log('Hello World - git and github ...');
